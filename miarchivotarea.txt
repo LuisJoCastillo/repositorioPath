@@ -1,5 +1,7 @@
 Primera linea de informacion en la tarea
 
+Git es una herramienta revolucionaria para el control de versiones. Su flexibilidad, rapidez y capacidad de colaboración lo hacen invaluable en el desarrollo de software. ¡Es el mejor aliado para cualquier apasionado de la tecnología!
+
 Cake or pie? I can tell a lot about you by which one you pick. It may seem silly, but cake people and pie people are really different. I know which one I hope you are, but that's not for me to decide. So, what is it? Cake or pie?
 
 
